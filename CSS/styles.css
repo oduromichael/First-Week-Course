@@ -40,3 +40,8 @@ body{
 .navbar-dark {
     background: #512DA8;
 }
+
+
+.btn-social-icon{
+    margin: 0px 4px 5px 0px;
+}
