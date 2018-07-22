@@ -45,3 +45,10 @@ body{
 .btn-social-icon{
     margin: 0px 4px 5px 0px;
 }
+
+.tab-content {
+    border-left:1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom:1px solid #ddd;
+    padding:10px;
+}
